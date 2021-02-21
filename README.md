@@ -1,7 +1,7 @@
 # Flatiron Module 1 Final Project
 > Microsoft Movie Studio Analysis
 
-Microsoft evaluation of the movie industry to determine what types of films currently peform best at the box office and establish the basis for tneir own movie studio and films to create.
+Flatiron Data Science Microsoft evaluation of the movie industry to determine what types of films currently peform best at the box office and establish the basis for their own movie studio and films to create (not real, school scenario only).
 
 ## Installing / Getting started
 
