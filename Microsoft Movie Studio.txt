@@ -1,0 +1,21 @@
+# Microsoft Movie Studio
+### Module 1 Final Project
+
+It's taken far too long for me to get to this point! Nearly 12 months into a 15 month course, with a planned completion in 10 months, here I am-*time to hustle*!!
+
+For as much as I've taken in, I'm still battling with the confidence to apply my newfound knowledge. However, as every manner of book, and this course, so aptly present, *doing* is truly the only path to mastery.
+
+So, here we go!! 
+
+I'm laying out my steps below to tackle the exploratory data analyis project and complete module one.
+
+#### Project Set Up
+
+Setting up for any endeavor that involves multiple components and dependencies cannot be stressed enough. Read, re-read, be thorough, clear, clean, and consistent in your structure, nomenclature, and descriptions.
+
+1. Read Learn.co Module 1 Final Project, re-read it, keep it open for reference.
+2. Launch the Learn.co Github repo for the project. Fork this to your personal repo and copy the URL (code link). Paste this URL to Learn.co for submission and to your terminal for cloning.
+3. Use Bash terminal to create a new directory for your project and clone the forked project to the new directory. Launch your Jupyter notebook and change your kernel to Learn-env.
+4. Set up your blog draft (outline format) and paste this URL into Learn.co for submission.
+5. Identify your methods for completing deliverables and establish shells. Deliverables include: Jupyter notebook; project README; slide presentation; this blog (recommend keeping a local copy saved); and a non-tech video presentation.
+
