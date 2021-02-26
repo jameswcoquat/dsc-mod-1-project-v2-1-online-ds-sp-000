@@ -8,7 +8,7 @@ Movie industry evaluation to determine what types of films currently peform best
   - <details>
   - <summary>[File Descriptions](#file-descriptions)</summary>
     * [Data](#data)
-    <details> 
+    </details> 
   - [Technologies Used](#technologies-used)
   - [Notebook Structure](#notebook-structure)
   - [Executive Summary](#executive-summary)
