@@ -12,14 +12,14 @@ Movie industry evaluation to determine what types of films currently peform best
   - [Future Improvement](#future-improvement)
   - [Contributing](#contributing)
   - [Links](#links)
+  - [License](#license)
 
 ### File Descriptions
-  <details><summary>Data</summary>
-  <br> 
+<details><summary>Data</summary>
     <li> bom.movie_gross.csv.gz
     <li> imdb.name.basics.csv.gz
 </details>
-
+<details><summary>
 [(back to TOC)](#table-of-contents)
 
 ### Technologies Used
@@ -58,3 +58,5 @@ branch. Pull requests are warmly welcome.
   - Your other project: https://github.com/your/other-project/
   - Someone else's project: https://github.com/someones/awesome-project/
 [(back to TOC)](#table-of-contents)
+
+## [License](license.md)
