@@ -15,9 +15,11 @@ Movie industry evaluation to determine what types of films currently peform best
 
 ### File Descriptions
   <details><summary>Data</summary>
+  <br> 
     * bom.movie_gross.csv.gz
     * imdb.name.basics.csv.gz
 </details>
+
 [(back to TOC)](#table-of-contents)
 
 ### Technologies Used
