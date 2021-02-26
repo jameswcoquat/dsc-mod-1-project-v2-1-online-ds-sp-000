@@ -17,18 +17,18 @@ Movie industry evaluation to determine what types of films currently peform best
 ### File Descriptions
 - [zippedData](/zippedData)
 <details>
-<summary>zippedData</summary> 
-    <li> bom.movie_gross.csv.gz: uncleansed Box Office Mojo movie gross revenues
-    <li> imdb.name.basics.csv.gz: 
-    <li> imdb.title.akas.csv.gz: 
-    <li> imdb.title.basics.csv.gz:
-    <li> imdb.title.crew.csv.gz:
-    <li> imdb.title.principals.csv.gz:
-    <li> imdb.title.ratings.csv.gz:
-    <li> rt.movie_info.tsv.gz:
-    <li> rt.reviews.tsv.gz
-    <li> tmdb.movies.csv.gz
-    <li> tn.movie_budgets.csv.gz
+  <summary>zippedData file descriptions</summary> 
+      <li> bom.movie_gross.csv.gz: uncleansed Box Office Mojo movie gross revenues
+      <li> imdb.name.basics.csv.gz: 
+      <li> imdb.title.akas.csv.gz: 
+      <li> imdb.title.basics.csv.gz:
+      <li> imdb.title.crew.csv.gz:
+      <li> imdb.title.principals.csv.gz:
+      <li> imdb.title.ratings.csv.gz:
+      <li> rt.movie_info.tsv.gz:
+      <li> rt.reviews.tsv.gz
+      <li> tmdb.movies.csv.gz
+      <li> tn.movie_budgets.csv.gz
 </details>
 
 - [CONTRIBUTING.md](/CONTRIBUTING.md): instructions for contributing to Flatiron Learn.co curriculum and repos
