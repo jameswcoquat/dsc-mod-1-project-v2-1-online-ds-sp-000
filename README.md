@@ -5,7 +5,10 @@
 Movie industry evaluation to determine what types of films currently peform best at the box office and establish a basis for Microsoft to pursue a movie studio and films to produce (not real, school scenario only).
 
 ## Table of Contents
-  - [File Descriptions](#file-descriptions)
+  - <details>
+  - <summary>[File Descriptions](#file-descriptions)</summary>
+    * [Data](#data)
+    <details> 
   - [Technologies Used](#technologies-used)
   - [Notebook Structure](#notebook-structure)
   - [Executive Summary](#executive-summary)
@@ -14,7 +17,9 @@ Movie industry evaluation to determine what types of films currently peform best
   - [Links](#links)
 
 ### File Descriptions
-
+- #### Data
+    * bom.movie_gross.csv.gz
+    * imdb.name.basics.csv.gz
 
 [(back to TOC)](#table-of-contents)
 ### Technologies Used
