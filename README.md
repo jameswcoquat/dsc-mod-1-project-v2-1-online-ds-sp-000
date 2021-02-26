@@ -29,10 +29,10 @@ Movie industry evaluation to determine what types of films currently peform best
     <li> tn.movie_budgets.csv.gz
 </details>
 
-  - [CONTRIBUTING.md](/CONTRIBUTING.md): instructions for contributing to Flatiron Learn.co curriculum and repos
-  - [LICENSE.md](/LICENSE.md): Learn.co licensing information
-  - [module1_project_rubric.pdf](/module1_project_rubric.pdf): requirements rubric for this project within Flatiron Learn.co Data Science course
-  - [student.ipnyb](/student.ipnyb): Jupyter notebook containing code for this project, explained below in [Notebook Structure](#notebook-structure)
+- [CONTRIBUTING.md](/CONTRIBUTING.md): instructions for contributing to Flatiron Learn.co curriculum and repos
+- [LICENSE.md](/LICENSE.md): Learn.co licensing information
+- [module1_project_rubric.pdf](/module1_project_rubric.pdf): requirements rubric for this project within Flatiron Learn.co Data Science course
+- [student.ipnyb](/student.ipnyb): Jupyter notebook containing code for this project, explained below in [Notebook Structure](#notebook-structure)
 
 [(back to TOC)](#table-of-contents)
 
