@@ -59,4 +59,4 @@ branch. Pull requests are warmly welcome.
   - Someone else's project: https://github.com/someones/awesome-project/
 [(back to TOC)](#table-of-contents)
 
-## [License](license.md)
+## [License](/LICENSE.md)
