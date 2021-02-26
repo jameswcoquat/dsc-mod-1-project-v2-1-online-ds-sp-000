@@ -40,9 +40,16 @@ Movie industry evaluation to determine what types of films currently peform best
 
 ### Technologies Used
 
+- Anaconda3 / Python 3.8.5
+- Gzip, Numpy, Pandas, Matplotlib, Seaborn
+
 [(back to TOC)](#table-of-contents)
 ### Notebook Structure
 
+- Python library import
+- Basic structural assessment of individual data sources
+- Data source selection & cleansing
+- Problem statement driven visualizations
 
 [(back to TOC)](#table-of-contents)
 ### Executive Summary
