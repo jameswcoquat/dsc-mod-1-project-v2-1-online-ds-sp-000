@@ -5,7 +5,7 @@
 Movie industry evaluation to determine what types of films currently peform best at the box office and establish a basis for Microsoft to pursue a movie studio and films to produce (not real, school scenario only).
 
 ## Table of Contents
-  - <details><summary>[File Descriptions](#file-descriptions)</summary>
+  - <details><summary>File Descriptions</summary>
     * [Data](#data)
   - </details> 
   - [Technologies Used](#technologies-used)
