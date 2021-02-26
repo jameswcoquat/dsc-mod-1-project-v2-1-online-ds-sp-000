@@ -15,9 +15,9 @@ Movie industry evaluation to determine what types of films currently peform best
   - [License](#license)
 
 ### File Descriptions
-<details>
-- <summary>zippedData</summary> 
-    <li> [bom.movie_gross.csv.gz](/bom.movie_gross.csv.gz): uncleansed Box Office Mojo movie gross revenues
+[zippedData](/zippedData)<details>
+<summary>zippedData</summary> 
+    <li> bom.movie_gross.csv.gz: uncleansed Box Office Mojo movie gross revenues
     <li> imdb.name.basics.csv.gz: 
     <li> imdb.title.akas.csv.gz: 
     <li> imdb.title.basics.csv.gz:
