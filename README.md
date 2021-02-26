@@ -1,19 +1,15 @@
 # Flatiron Module 1 Final Project
 ## Microsoft Movie Studio Analysis
 
-### Business Case:
+### Business Case
 Movie industry evaluation to determine what types of films currently peform best at the box office and establish a basis for Microsoft to pursue a movie studio and films to produce (not real, school scenario only).
 
 ## Table of Contents
-- [Flatiron Module 1 Final Project](#flatiron-module-1-final-project)
-  - [Microsoft Movie Studio Analysis](#microsoft-movie-studio-analysis)
-    - [Business Case:](#business-case)
-  - [Table of Contents](#table-of-contents)
-    - [File Descriptions](#file-descriptions)
-    - [Technologies Used](#technologies-used)
-    - [Notebook Structure](#notebook-structure)
-    - [Executive Summary](#executive-summary)
-    - [Future Improvement](#future-improvement)
+  - [File Descriptions](#file-descriptions)
+  - [Technologies Used](#technologies-used)
+  - [Notebook Structure](#notebook-structure)
+  - [Executive Summary](#executive-summary)
+  - [Future Improvement](#future-improvement)
   - [Contributing](#contributing)
   - [Links](#links)
 
